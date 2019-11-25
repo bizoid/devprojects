@@ -8,6 +8,6 @@ test, 1
 
 git clone
 git status
-git add
+git add (-A or . will add all files in the directory)
 git commit
 git push
