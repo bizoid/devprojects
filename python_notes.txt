@@ -1,0 +1,7 @@
+Python Notes
+
+Slicing
+
+df[:10] = first 10 rows
+
+test, 1
